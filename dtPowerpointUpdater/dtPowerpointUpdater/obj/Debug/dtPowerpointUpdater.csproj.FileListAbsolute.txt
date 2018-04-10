@@ -1,0 +1,11 @@
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\bin\Debug\dtPowerpointUpdater.exe.config
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\bin\Debug\dtPowerpointUpdater.exe
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\bin\Debug\dtPowerpointUpdater.pdb
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\obj\Debug\dtPowerpointUpdater.csprojResolveAssemblyReference.cache
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\obj\Debug\dtPowerpointUpdater.Form1.resources
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\obj\Debug\dtPowerpointUpdater.Properties.Resources.resources
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\obj\Debug\dtPowerpointUpdater.csproj.GenerateResource.Cache
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\obj\Debug\dtPowerpointUpdater.csproj.CoreCompileInputs.cache
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\obj\Debug\dtPowerpointUpdater.exe
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\obj\Debug\dtPowerpointUpdater.pdb
+c:\users\cmoor\source\repos\dtPowerpointUpdater\dtPowerpointUpdater\obj\Debug\dtPowerpointUpdater.csproj.ResolveComReference.cache
